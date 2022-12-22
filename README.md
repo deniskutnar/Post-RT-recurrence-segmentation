@@ -6,7 +6,7 @@
 ## Method illustration
 
 <div align="center">
-    <img src="./imgs/methods_overview" alt="methods_overview" width="600px" />
+    <img src="./imgs/methods_overview.png" alt="methods_overview" width="600px" />
 </div>
 
 ## License
